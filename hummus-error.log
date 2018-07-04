@@ -1,0 +1,28 @@
+[ 04/07/2018 10:56:00 ] AbstractContentContext::PDFModifiedPage, null page object
+[ 04/07/2018 10:57:24 ] AbstractContentContext::PDFModifiedPage, null page object
+[ 04/07/2018 11:02:19 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /path/to/image.jpg
+[ 04/07/2018 11:02:19 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /path/to/image.jpg
+[ 04/07/2018 11:03:00 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /path/to/image.jpg
+[ 04/07/2018 11:03:00 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /path/to/image.jpg
+[ 04/07/2018 11:36:26 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:36:26 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:36:26 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 30 was not registered as written. probably means it was not written
+[ 04/07/2018 11:36:26 ] PDFWriter::EndPDF, Could not end PDF
+[ 04/07/2018 11:36:52 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:36:52 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:43:13 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 24 was not registered as written. probably means it was not written
+[ 04/07/2018 11:43:13 ] PDFWriter::EndPDF, Could not end PDF
+[ 04/07/2018 11:43:48 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 24 was not registered as written. probably means it was not written
+[ 04/07/2018 11:43:48 ] PDFWriter::EndPDF, Could not end PDF
+[ 04/07/2018 11:45:01 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - output.pdf
+[ 04/07/2018 11:45:20 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:45:20 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:46:46 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:46:46 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:46:46 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 30 was not registered as written. probably means it was not written
+[ 04/07/2018 11:46:46 ] PDFWriter::EndPDF, Could not end PDF
+[ 04/07/2018 11:46:57 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:46:57 ] InputFile::OpenFile, Unexpected Failure. Cannot open file for reading - /test.jpg
+[ 04/07/2018 11:46:57 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 29 was not registered as written. probably means it was not written
+[ 04/07/2018 11:46:57 ] PDFWriter::EndPDF, Could not end PDF
+[ 04/07/2018 11:59:34 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - output.pdf
