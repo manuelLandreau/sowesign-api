@@ -9,10 +9,10 @@ export class RdsController {
     constructor(private readonly rdsService: RdsService) {
     }
 
-    @Post('/:id')
-    async sign(id, @Body() User: UserModel): Promise<Rds> {
-        const rds = this.rdsService.find(id);
-        rds.signataires.push(User);
+    @Post('/sign')
+    async sign(@Body() user: UserModel): Promise<Rds> {
+        const rds = this.rdsService.find(user.rdsId);
+        rds.signataires.push(user);
         return rds
     }
 
