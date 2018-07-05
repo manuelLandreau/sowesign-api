@@ -26,3 +26,4 @@
 [ 04/07/2018 11:46:57 ] ObjectsContext::WriteXrefTable, Unexpected Failure. Object of ID = 29 was not registered as written. probably means it was not written
 [ 04/07/2018 11:46:57 ] PDFWriter::EndPDF, Could not end PDF
 [ 04/07/2018 11:59:34 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - output.pdf
+[ 04/07/2018 16:34:40 ] OutputFile::OpenFile, Unexpected Failure. Cannot open file for writing - output.pdf
