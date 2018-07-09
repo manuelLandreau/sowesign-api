@@ -22,3 +22,15 @@ export function extractTags(path) {
         return false;
     });
 }
+
+export function sign(input, signature, coord) {
+    let output = {...input};
+    pdfDoc = new HummusRecipe(input, output);
+    pdfDoc
+    // edit 1st page
+        .editPage(1)
+        .image(signature, coord.x, coord.y, {width: 150})
+        .text('nom et date', coord.x, coord.y)
+        .endPage()
+        .endPDF(()=> console.log('ok'));
+}
