@@ -9,7 +9,7 @@ export class RdsService {
     constructor(@Inject('RdsModelToken') private readonly rdsModel: Model<Rds>) {}
 
     async create(rds: RdsModel): Promise<Rds> {
-        const createdRds = new this.stockModel(rds);
+        const createdRds = new this.rdsModel(rds);
         return createdRds.save()
     }
 
